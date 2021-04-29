@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tree_p-tree-toggler-icon pi pi-fw pi-c_ceefa1</name>
+   <tag></tag>
+   <elementGuidId>f243caf5-284c-4f2c-abc0-b41e21e1b013</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-tree-toggler-icon.pi.pi-fw.pi-chevron-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='treeView']/div/div/div/ul/li/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-tree-toggler-icon pi pi-fw pi-chevron-right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treeView&quot;)/div[1]/div[@class=&quot;ontTree&quot;]/div[@class=&quot;p-tree p-component p-tree-selectable&quot;]/ul[@class=&quot;p-tree-container&quot;]/li[@class=&quot;p-treenode&quot;]/div[@class=&quot;p-treenode-content p-treenode-selectable&quot;]/button[@class=&quot;p-tree-toggler p-link&quot;]/span[@class=&quot;p-tree-toggler-icon pi pi-fw pi-chevron-right&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='treeView']/div/div/div/ul/li/div/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>

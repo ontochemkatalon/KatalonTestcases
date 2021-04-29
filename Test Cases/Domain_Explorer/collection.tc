@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Need to revier the if else later and add remove function</description>
+   <name>collection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48a83e83-1ce6-4ab3-a94d-bb7e269f52ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(test,Rabiya, , s documents)_p-m_ffa163</name>
+   <tag></tag>
+   <elementGuidId>a539b224-bf18-4f60-a3e1-57d0f594a363</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-multiselect-close-icon.pi.pi-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='selectCollections']/div[5]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-close-icon pi pi-times</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectCollections&quot;)/div[@class=&quot;p-multiselect-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-multiselect-header&quot;]/button[@class=&quot;p-multiselect-close p-link&quot;]/span[@class=&quot;p-multiselect-close-icon pi pi-times&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selectCollections']/div[5]/div/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>
